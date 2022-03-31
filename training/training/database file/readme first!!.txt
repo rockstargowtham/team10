@@ -1,0 +1,1 @@
+to launch the project use index.php as the first page in the url
